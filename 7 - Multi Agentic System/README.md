@@ -18,7 +18,7 @@ Build and manage a team of AI agents to complete multi-step tasks like research,
 
 ---
 
-## ⚙️ crewAI Framework
+## ⚙️ Framework
 
 - **Crew**: A team of agents with different roles.
 - **Collaborative**: Work can be **sequential**, **parallel**, or **managed**.
